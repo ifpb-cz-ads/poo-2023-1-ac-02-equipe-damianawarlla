@@ -6,3 +6,5 @@
 
 
 ## 4 - o código rodou normalmente, não sei se foi alguma configuração do VScode que está compilando o código automaticamente sem usar o JavaC, pois mesmo rodando o código sem mesmo compilar antes, estava funcionando.
+
+## 5 - apareceu o erro: error: can't find main(String[]) method in class: BMExercicio3
